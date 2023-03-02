@@ -9,5 +9,9 @@
 <body>
     <h1>coba aja ni</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque quas vero illum iste commodi autem optio dolor quaerat id expedita voluptatibus, pariatur sapiente suscipit, atque corporis nostrum illo assumenda quibusdam.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
